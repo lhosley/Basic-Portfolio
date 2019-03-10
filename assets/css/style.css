@@ -71,17 +71,14 @@ h2{ font-family: 'Georgia, Times, Times New Roman, serif';
     
 }
 
-.pic { margin-left: 20px;
+.pic { float: left;
+        margin-left: 20px;
         margin-right: 20px;
-        float: left;
-       
-     
-       
 
 }
 
 
-.info{  
+.info{ 
     font-family: Helvetica,Arial,sans-serif;
     font-size: 24px;
     line-height:36px;}
@@ -105,7 +102,7 @@ h2{ font-family: 'Georgia, Times, Times New Roman, serif';
         color: #dddddd;
         width: 1140px;
         padding-top:29px;
-        border-top-width: 7px;
+        border-top-width: 8px;
         border-top-color: #4aaaa5; 
         border-top-style: solid;
         text-align: center;
